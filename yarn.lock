@@ -54,15 +54,10 @@
     "jose" "^1.28.0"
     "typeorm" "^0.2.31"
 
-"@types/node@*", "@types/node@^14.14.39":
-  "integrity" "sha512-Qipn7rfTxGEDqZiezH+wxqWYR8vcXq5LRpZrETD19Gs4o8LbklbmqotSUsMU+s5G3PJwMRDfNEYoxrcBwIxOuw=="
-  "resolved" "https://registry.npmjs.org/@types/node/-/node-14.14.39.tgz"
-  "version" "14.14.39"
-
-"@types/node@>=8.1.0":
-  "integrity" "sha512-dueRKfaJL4RTtSa7bWeTK1M+VH+Gns73oCgzvYfHZywRCoPSd8EkXBL0mZ9unPTveBn+D9phZBaxuzpwjWkW0g=="
-  "resolved" "https://registry.npmjs.org/@types/node/-/node-14.14.41.tgz"
-  "version" "14.14.41"
+"@types/node@*", "@types/node@^18.11.18", "@types/node@>=8.1.0":
+  "integrity" "sha512-DHQpWGjyQKSHj3ebjFI/wRKcqQcdR+MoFBygntYOZytCqNfkd2ZC4ARDJ2DQqhjH5p85Nnd3jhUJIXrszFX/JA=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-18.11.18.tgz"
+  "version" "18.11.18"
 
 "@types/prismic-dom@^2.1.1":
   "integrity" "sha512-gZSFBARo4vFnpclOq2DzU9t4wikVsZ0+lL4hXaRoeUJinhGSK+nMERcZJgXglK/+QRcw3HBPbGJzgzTqQGSuNw=="
@@ -74,10 +69,10 @@
   "resolved" "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.3.tgz"
   "version" "15.7.3"
 
-"@types/react@*", "@types/react@^17.0.3":
-  "integrity" "sha512-wYOUxIgs2HZZ0ACNiIayItyluADNbONl7kt8lkLjVK8IitMH5QMyAh75Fwhmo37r1m7L2JaFj03sIfxBVDvRAg=="
-  "resolved" "https://registry.npmjs.org/@types/react/-/react-17.0.3.tgz"
-  "version" "17.0.3"
+"@types/react@*", "@types/react@^18.0.27":
+  "integrity" "sha512-3vtRKHgVxu3Jp9t718R9BuzoD4NcQ8YJ5XRzsSKxNDiDonD2MXIT1TmSkenxuCycZJoQT5d2vE8LwWJxBC1gmA=="
+  "resolved" "https://registry.npmjs.org/@types/react/-/react-18.0.27.tgz"
+  "version" "18.0.27"
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -209,9 +204,9 @@
     "get-intrinsic" "^1.0.2"
 
 "caniuse-lite@^1.0.30001283":
-  "integrity" "sha512-10T30NYOEQtN6C11YGg411yebhvpnC6Z102+B95eAsN0oB6KUs01ivE8u+G6FMIRtIrVlYXhL+LUwQ3/hXwDWw=="
-  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001332.tgz"
-  "version" "1.0.30001332"
+  "integrity" "sha512-qMBmvmQmFXaSxexkjjfMvD5rnDL0+m+dUMZKoDYsGG8iZN29RuYh9eRoMvKsT6uMAWlyUUGDEQGJJYjzCIO9ew=="
+  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001450.tgz"
+  "version" "1.0.30001450"
 
 "chalk@^1.1.1":
   "integrity" "sha1-qBFcVeSnAv5NFQq9OHKCKn4J/Jg="
@@ -1024,10 +1019,10 @@
     "yargs" "^16.2.0"
     "zen-observable-ts" "^1.0.0"
 
-"typescript@^4.2.4":
-  "integrity" "sha512-V+evlYHZnQkaz8TRBuxTA92yZBPotr5H+WhQ7bD3hZUndx5tGOa1fuCgeSjxAzM1RiN5IzvadIXTVefuuwZCRg=="
-  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.2.4.tgz"
-  "version" "4.2.4"
+"typescript@^4.9.5":
+  "integrity" "sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g=="
+  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.9.5.tgz"
+  "version" "4.9.5"
 
 "util-deprecate@^1.0.2":
   "integrity" "sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8="
